@@ -4,9 +4,9 @@ inpainting
 ## AutoEncoder
 
 ## PConv
-참조: <br>
-[논문] https://arxiv.org/abs/1804.07723 <br>
-[코드] https://github.com/MathiasGruber/PConv-Keras
+Reference: <br>
+[PAPER] https://arxiv.org/abs/1804.07723 <br>
+[CODE] https://github.com/MathiasGruber/PConv-Keras
 
 #### 결과 값
 <div>
