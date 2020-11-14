@@ -5,7 +5,7 @@ inpainting
 
 ## PConv
 참조: 
-[논문] https://arxiv.org/abs/1804.07723
+[논문] https://arxiv.org/abs/1804.07723 <br>
 [코드] https://github.com/MathiasGruber/PConv-Keras
 
 #### 결과 값
