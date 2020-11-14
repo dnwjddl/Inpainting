@@ -10,6 +10,8 @@ inpainting
 
 #### 결과 값
 [원본 이미지]
+<img src="https://user-images.githubusercontent.com/72767245/99153168-419dde80-26ea-11eb-98fb-9aca373f5b84.jpg" width="35%">
+
 ![gray](https://user-images.githubusercontent.com/72767245/99153168-419dde80-26ea-11eb-98fb-9aca373f5b84.jpg)
 
 [grayscale 이미지에 RGB 컬러 입히기_click'c']
