@@ -11,12 +11,10 @@ inpainting
 #### 결과 값
 <p align="center"><img src="https://user-images.githubusercontent.com/72767245/99153168-419dde80-26ea-11eb-98fb-9aca373f5b84.jpg" width="20%"></p>
 
-[원본 이미지]
-
-![gray](https://user-images.githubusercontent.com/72767245/99153168-419dde80-26ea-11eb-98fb-9aca373f5b84.jpg)
+                                                    **[원본 이미지]**
 
 [grayscale 이미지에 RGB 컬러 입히기_click'c']
-![colored](https://user-images.githubusercontent.com/72767245/99153169-4367a200-26ea-11eb-8ac1-776ee3d89186.png)
+<img src="https://user-images.githubusercontent.com/72767245/99153169-4367a200-26ea-11eb-8ac1-776ee3d89186.png" width="20%">
 
 [사진 실시간 복구_'enter']
 <div>
