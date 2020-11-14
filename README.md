@@ -13,12 +13,10 @@ inpainting
   <img src="https://user-images.githubusercontent.com/72767245/99153168-419dde80-26ea-11eb-98fb-9aca373f5b84.jpg" width="20%">
   <img src="https://user-images.githubusercontent.com/72767245/99153169-4367a200-26ea-11eb-8ac1-776ee3d89186.png" width="20%">
 </div>
-
-                                                **[원본 이미지]**
-                                 **[grayscale 이미지에 RGB 컬러 입히기_click'c']**
+**좌:원본이미지, 우:컬러복원한 이미지**
 
 <p align="center"> <div>
   <img src="https://user-images.githubusercontent.com/72767245/99153170-45316580-26ea-11eb-9144-7a6e95323273.png" width="20%">
   <img src="https://user-images.githubusercontent.com/72767245/99153171-45c9fc00-26ea-11eb-9ae2-adb61f17b056.png" width="20%">
 </div> </p>
-                                         **[사진 실시간 복구_'enter']**
+**이미지 실시간 복원 결과 값**
