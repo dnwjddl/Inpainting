@@ -9,8 +9,9 @@ inpainting
 [코드] https://github.com/MathiasGruber/PConv-Keras
 
 #### 결과 값
-[원본 이미지]
 <img src="https://user-images.githubusercontent.com/72767245/99153168-419dde80-26ea-11eb-98fb-9aca373f5b84.jpg" width="20%">
+
+[원본 이미지]
 
 ![gray](https://user-images.githubusercontent.com/72767245/99153168-419dde80-26ea-11eb-98fb-9aca373f5b84.jpg)
 
