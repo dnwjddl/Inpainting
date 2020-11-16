@@ -2,6 +2,8 @@
 inpainting
 
 ## AutoEncoder
+![image](https://user-images.githubusercontent.com/72767245/99287894-31b70380-287e-11eb-89ce-0d4571ccb3d9.png)
+
 
 ## PConv
 Reference: <br>
