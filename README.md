@@ -25,7 +25,7 @@ Reference: <br>
   <img src="https://user-images.githubusercontent.com/72767245/99153168-419dde80-26ea-11eb-98fb-9aca373f5b84.jpg" width="20%">
   <img src="https://user-images.githubusercontent.com/72767245/99153169-4367a200-26ea-11eb-8ac1-776ee3d89186.png" width="20%">
 </div>
-<b>좌:원본이미지, 우:컬러복원한 이미지</b>
+<b>원본 이미지와 복원한 이미지</b>
 
 <p align="center"> <div>
   <img src="https://user-images.githubusercontent.com/72767245/99153170-45316580-26ea-11eb-9144-7a6e95323273.png" width="20%">
