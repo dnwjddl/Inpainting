@@ -1,7 +1,8 @@
 # Inpainting 
 inpainting
 
-## AutoEncoder
+## VAE(AutoEncoder)
+입력의 특징 추출 후 생성모델 출력
 ![image](https://user-images.githubusercontent.com/72767245/99287894-31b70380-287e-11eb-89ce-0d4571ccb3d9.png)
 
 
