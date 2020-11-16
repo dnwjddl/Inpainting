@@ -8,7 +8,7 @@ Reference: <br>
 [PAPER] https://arxiv.org/abs/1804.07723 <br>
 [CODE] https://github.com/MathiasGruber/PConv-Keras
 
-### 결과 값
+### 문화재 이미지 복원 기술
 우리의　문화재　복원　기술에　대한　작품은　**총　두가지　효과**를　낼　수　있다．
 
 #### 1. 훼손된　이미지에　대한　이미지　복원　기술
@@ -21,6 +21,8 @@ Reference: <br>
 - 흑백사진의　Lab컬러를　사용하여　복원,　Lab에서　명도를　의미하는　L채널을　사용
 - 흑백사진의　명도를　사용하여　흑백사진을　RGB컬러　사진으로　복원
 
+
+### 결과 값
 <div>
   <img src="https://user-images.githubusercontent.com/72767245/99153168-419dde80-26ea-11eb-98fb-9aca373f5b84.jpg" width="20%">
   <img src="https://user-images.githubusercontent.com/72767245/99153169-4367a200-26ea-11eb-8ac1-776ee3d89186.png" width="20%">
