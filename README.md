@@ -1,16 +1,16 @@
 # Inpainting 
 inpainting
 
-### VAE(AutoEncoder)
+### 1.VAE(AutoEncoder)
 입력의 특징 추출 후 생성모델 출력
 
 ![image](https://user-images.githubusercontent.com/72767245/99287894-31b70380-287e-11eb-89ce-0d4571ccb3d9.png)
 
-### SRGAN: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+### 2.SRGAN: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 https://arxiv.org/pdf/1609.04802.pdf
 
 
-## PConv
+## 3.PConv
 Reference: <br>
 [PAPER] https://arxiv.org/abs/1804.07723 <br>
 [CODE] https://github.com/MathiasGruber/PConv-Keras
