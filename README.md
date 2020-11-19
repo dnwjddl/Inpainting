@@ -6,6 +6,9 @@ inpainting
 
 ![image](https://user-images.githubusercontent.com/72767245/99287894-31b70380-287e-11eb-89ce-0d4571ccb3d9.png)
 
+### SRGAN: Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+https://arxiv.org/pdf/1609.04802.pdf
+
 
 ## PConv
 Reference: <br>
