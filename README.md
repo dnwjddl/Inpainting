@@ -1,4 +1,4 @@
-# Inpainting 
+# Inpainting  
 inpainting
 
 ### 1.VAE(AutoEncoder)
